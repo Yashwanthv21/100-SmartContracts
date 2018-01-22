@@ -5,3 +5,12 @@
 
 - Init the repo with Truffle and its default contract.
 - Make changes to deploy the contract in the network in the file truffle.js
+
+## Day 2 Hello World
+
+- This contract is a simple one, that just prints `Hello World Contract`.
+
+## Day 3 Airthmetic Contract
+
+- This contract takes input of two numbers and returns the sum of the two numbers.
+
