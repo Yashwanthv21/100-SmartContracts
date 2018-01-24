@@ -14,3 +14,6 @@
 
 - This contract takes input of two numbers and returns the sum of the two numbers.
 
+## Day 4 Contracts Balance
+
+- Returns the balance of the current smart contract.
