@@ -17,3 +17,7 @@
 ## Day 4 Contracts Balance
 
 - Returns the balance of the current smart contract.
+
+## Day 5 Send Balance
+
+- Returns `True` if it is successful else `False`.
