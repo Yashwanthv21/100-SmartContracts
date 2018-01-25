@@ -21,3 +21,7 @@
 ## Day 5 Send Balance
 
 - Returns `True` if it is successful else `False`.
+
+## Day 6 Storage
+
+- This is used to store data, in the blockchain. similar type of contract is used to store hash of the documents in blockchain.

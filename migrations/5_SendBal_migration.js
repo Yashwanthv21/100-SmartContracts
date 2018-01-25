@@ -1,4 +1,4 @@
-var sendbal = artifacts.require("Transfer");
+var sendbal = artifacts.require("TransferContract");
 
 module.exports = function(deployer) {
 	deployer.deploy(sendbal);

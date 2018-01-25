@@ -1,8 +1,13 @@
 pragma solidity ^0.4.17;
 
-contract Balance {
-  function send(address a, uint256 bal) constant returns (bool) {
+contract TransferContract {
+	address public deployer;
+
+  function TransferContract() {
+  	deployer = msg.sender;
+  }
+  function sendBal(uint256 bal) {
   	// Returns False on failure
- 	a.send(bal);
+ 	deployer.send(bal);
   }
 }
