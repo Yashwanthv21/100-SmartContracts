@@ -25,3 +25,7 @@
 ## Day 6 Storage
 
 - This is used to store data, in the blockchain. similar type of contract is used to store hash of the documents in blockchain.
+
+## Day 7 Calling a Contract from Another Contract
+
+- Implementation of calling a contract from another contract.
