@@ -37,3 +37,7 @@
 ## Day 9 Loops in SmartContracts
 
 - For loop implementation.
+
+## Day 10 Sucide Contract
+
+- Sucide contract to make the contract void, it accepts a address to send the remaining gas/ether to the address.
