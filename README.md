@@ -41,3 +41,7 @@
 ## Day 10 Sucide Contract
 
 - Sucide contract to make the contract void, it accepts a address to send the remaining gas/ether to the address.
+
+## Day 11 String Comparision
+
+- String comparision using hash.
