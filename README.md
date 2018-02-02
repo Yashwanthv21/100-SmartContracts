@@ -45,3 +45,7 @@
 ## Day 11 String Comparision
 
 - String comparision using hash.
+
+## Day 12 Int to String Conversion
+
+- Int to string conversion in solidity.
